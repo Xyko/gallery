@@ -1,10 +1,6 @@
 ﻿<menu>
 <menus id="menu">
-		<Menu btnName="GALLERY ONE" p="1" f="gallery1"  css="config" bg="on" bgImg="images/background/1.jpg"></Menu>
-		<Menu btnName="GALLERY TWO" p="1" f="gallery2" css="config" bg="on" bgImg="images/background/2.jpg"></Menu>
-		<Menu btnName="GALLERY THREE" p="1" f="gallery3" css="config" bg="on" bgImg="images/background/3.jpg"></Menu>
-		<Menu btnName="GALLERY FOUR" p="1" f="gallery4" css="config" bg="on" bgImg="images/background/4.jpg"></Menu>
-		<Menu btnName="GALLERY FIVE" p="1" f="gallery5" css="config" bg="on" bgImg="images/background/5.jpg"></Menu>	
-		<Menu btnName="GALLERY ..N" p="1" f="gallery6" css="config" bg="on" bgImg="images/background/6.jpg"></Menu>		
+		<Menu btnName="Trabalhos 1" p="1" f="gallery1" css="config" bg="on" bgImg="images/background/1.jpg"></Menu>
+		<Menu btnName="Trabalhos 2" p="1" f="gallery2" css="config" bg="on" bgImg="images/background/2.jpg"></Menu>
 </menus>
 </menu>
